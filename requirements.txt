@@ -17,6 +17,7 @@ defer==1.0.6
 distro==1.4.0
 distro-info===0.23ubuntu1
 Django==4.2.10
+django-filter==24.3
 djangorestframework==3.15.2
 drf-extra-fields==3.7.0
 duplicity==0.8.12.0
